@@ -1,0 +1,134 @@
+.Login-Form{
+    background-color: rgb(43, 64, 82);
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.Login{
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+
+}
+.inputbox{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px 0px 0px 20px;
+   
+}
+.btn-login{
+    height: 49px;
+    border-radius: 0px 20px 20px 0px;
+
+    background-color: aliceblue;
+}
+.form{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.Register-Div{
+    
+    background-color: rgb(43, 64, 82);
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px 20px 20px 0px;
+ 
+    
+
+}
+.inputbox-Register{
+    width: 300px;
+    height: 50px;
+    border-radius: 00px 20px 20px 0px;
+    margin-top: 25px;
+    margin-left:5px;
+}
+.btn-Register{
+    float: right;
+    height: 49px;
+    border-radius: 20px 0px 0px 20px;
+    margin-top: 25px;
+    background-color: aliceblue;
+    margin-right:5px;
+    margin-bottom: 50px;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    padding: 2%;
+}
+.userlist-table{
+    margin-bottom: 10px;
+   
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    padding: 10px;
+    
+}
+.table-btn{
+margin-left: 5px;
+margin-right: 5px;
+float: left;
+background-color: rgb(43, 64, 82);
+    border-radius: 10px;
+    color: aliceblue;
+}
+.button-td{
+    float: right; 
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.logout-Btn{
+    float: right;
+    height: 49px;
+    border-radius: 20px 0px 0px 20px;
+    background-color: aliceblue;
+}
+.userlist-edit{
+    
+    margin-left: auto;
+    margin-right: auto;
+ 
+
+    
+   
+    
+}
+.h2-add{
+    text-align: center;
+    color: rgb(41, 42, 58);
+    margin-top: 20px;
+ 
+}
+.Add-User-input-tags{
+
+ display: flex;
+ justify-content: center;
+ margin-bottom: 30px;
+  
+}
+.add-user-btn{
+    border-radius: 0px 20px 20px 0px;
+    background-color: rgb(28, 47, 64);
+    color: aliceblue;
+    width: 100px;
+}
